@@ -1,0 +1,4 @@
+#Fri May 24 13:23:00 IST 2019
+base.0=C\:\\Users\\SAKET\\AndroidStudioProjects\\BengaluruTouristGuideMini\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\4
+path.0=classes.dex
+renamed.0=classes.dex
